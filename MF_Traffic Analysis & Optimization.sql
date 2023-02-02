@@ -109,24 +109,3 @@ WHERE created_at > '2012-04-19'
 GROUP BY 
 	YEAR(created_at),
     WEEK(created_at);
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
